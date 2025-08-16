@@ -16,15 +16,3 @@ def longestCommonPrefix(strs: list[str]) -> str:
             k += 1
         i += 1
     return ans
-
-cases = [
-    ["flower","flow","flight"],
-    ["dog","racecar","car"],
-    [""],
-    ["a"],
-    ["ab", "a"],
-    ["cir","car"]
-]
-
-for case in cases:
-    print(longestCommonPrefix(case))
