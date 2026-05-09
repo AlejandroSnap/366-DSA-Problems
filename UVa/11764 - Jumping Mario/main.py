@@ -9,7 +9,7 @@ def main():
         low_jump = 0
 
         for i in range(n - 1):
-            if jumps[i] < jumps[i + 1]:
+            if jumps[i]  < jumps[i + 1]:
                 high_jump += 1
             elif jumps[i] > jumps[i + 1]:
                 low_jump += 1
