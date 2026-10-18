@@ -9,3 +9,5 @@ These problems come from multiple sources:
 - [LeetCode](https://leetcode.com)
 - [UVa Online Judge](https://onlinejudge.org)
 - [CodeWars](https://www.codewars.com)
+- [CodeForces](https://codeforces.com/)
+- [SPOJ](https://www.spoj.com/)
